@@ -1,7 +1,7 @@
 # Financial Report Dashboard
 
 <div align="center">
-  <img src="financial-report.png" alt="Financial Report Dashboard" width="80%"/>
+  <img src="financial-report.png" alt="Financial Report Dashboard" width="50%"/>
 </div>
 
 ---

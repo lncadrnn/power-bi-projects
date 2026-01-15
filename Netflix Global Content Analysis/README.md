@@ -1,9 +1,9 @@
 # Netflix Global Content Analysis
 
 <div align="center">
-  <img src="images/movie-dataset.png" alt="Netflix Global Content Dashboard" width="80%"/>
+  <img src="images/movie-dataset.png" alt="Netflix Global Content Dashboard" width="50%"/>
   <br/>
-  <img src="images/yellow-movie-dataset.png" alt="Netflix Global Content Dashboard (Yellow Theme)" width="80%"/>
+  <img src="images/yellow-movie-dataset.png" alt="Netflix Global Content Dashboard (Yellow Theme)" width="50%"/>
 </div>
 
 ---
