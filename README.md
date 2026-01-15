@@ -1,14 +1,23 @@
+# 📊 Power BI Projects
 
-## Power BI Projects Repository
+---
 
-This repository contains a collection of Power BI projects, each designed to demonstrate business intelligence, data analysis, and dashboarding skills using Power BI Desktop. The projects range from academic requirements to professional certification tasks.
+## 📈 Project Overview
 
-### Projects Overview
+Welcome to my **Power BI Projects** repository! This collection showcases my skills in **business intelligence, data analysis, and dashboard design** using Power BI Desktop. Projects range from academic requirements to professional certification tasks, each demonstrating practical BI solutions and data storytelling.
 
-- **Financial Report Dashboard**: Developed as a requirement for the DataSense Analytics certification, this dashboard showcases zero to low-code techniques for building business intelligence solutions in Power BI Desktop.
+---
 
-- **Netflix Global Content Analysis**: Created as a school requirement for Cavite State University - Imus, this project analyzes Netflix's global content library using Power BI visualizations.
+## 🎯 Purpose
 
-- **Experimental Statistics Dashboard**: This dashboard features two UI versions—one with an improved user interface and another with a yellow and black theme to match a partner PowerPoint presentation. The project provides insights based on experimental statistics data.
+This repository is part of my portfolio to demonstrate:
+- Mastery of Power BI for data visualization and dashboarding
+- Business intelligence and analytical thinking
+- Building interactive, user-friendly dashboards
+- Applying zero to low-code techniques for real-world scenarios
 
-Explore each folder for more details and sample dashboards.
+---
+
+📧 **For inquiries or collaboration:** lanceadrn.acal@gmail.com
+
+---
