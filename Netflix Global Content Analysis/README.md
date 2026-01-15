@@ -3,8 +3,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="images/movie-dataset.png" alt="Netflix Global Content Dashboard" width="300"/></td>
-      <td><img src="images/yellow-movie-dataset.png" alt="Netflix Global Content Dashboard (Yellow Theme)" width="300"/></td>
+      <td><img src="images/movie-dataset.png" alt="Netflix Global Content Dashboard" width="500"/></td>
+      <td><img src="images/yellow-movie-dataset.png" alt="Netflix Global Content Dashboard (Yellow Theme)" width="500"/></td>
     </tr>
   </table>
 </div>
